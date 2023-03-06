@@ -47,6 +47,8 @@ body {
 .man-picture {
   margin-top: 140px;
   width: 70vw;
+  margin-left: 140px;
+  width: 1200px;
 }
 .section-class1 {
   display: flex;
@@ -66,10 +68,6 @@ body {
   line-height: 29.77px;
   font-weight: 400;
   font-family: "Open Sans";
-}
-.man-picture {
-  margin-left: 140px;
-  width: 1200px;
 }
 .Why-Organic {
   display: flex;
